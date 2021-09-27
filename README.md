@@ -2,7 +2,6 @@
 - 👀 I’m interested in learn more about Python 3
 - 🌱 I’m currently learning Django
 - 💞️ I’m looking to collaborate on Django projects
-- 📫 How to reach me ...
 
 <!---
 YerkoHerrera/YerkoHerrera is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
